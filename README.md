@@ -17,4 +17,4 @@ This project demonstrates TCP/IP communication with multiple devices using Pytho
    If you haven't already, clone the repository:
    ```bash
    git clone https://github.com/Thirukuralan/manufacturing_plant.git
-   cd TcpIpProject
+   cd manufacturing_plant
